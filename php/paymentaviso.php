@@ -11,6 +11,8 @@
 			$code = 0;
 			print '<?xml version="1.0" encoding="UTF-8"?>';
 			print '<paymentAvisoResponse performedDatetime="'. $_POST['requestDatetime'] .'" code="'.$code.'" invoiceId="'. $_POST['invoiceId'] .'" shopId="'. $_POST['shopId'] .'"/>';
+			
+			//here change status of payment in you system
 		}
 	}
 
