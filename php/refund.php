@@ -28,7 +28,7 @@
     {
         $data = '<?xml version="1.0" encoding="UTF-8"?>
 <returnPaymentRequest clientOrderId="' . $this->id . '" requestDT="' . date('Y-m-d\TH:i:sP') . '"
-invoiceId="' .$this->invoiceId . '" shopID="17050" amount="' .sprintf("%.2f", $this->cost) . '"
+invoiceId="' .$this->invoiceId . '" shopID="' .$this->shopId . '" amount="' .sprintf("%.2f", $this->cost) . '"
 currency="643" cause="' .$cause . '" />';
 
         $certFile = '/path_to_project/ssl/cert.cer';
