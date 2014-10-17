@@ -38,7 +38,7 @@ currency="10643" cause="' .$cause . '" />';
 
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, 'https://penelope-demo.yamoney.ru:8083/webservice/mws/api/returnPayment');
-        curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type:application/pkcs7-mime'));
+        curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type:application/x-www-form-urlencoded'));
         curl_setopt($ch, CURLOPT_POST, true);
         curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
         curl_setopt($ch, CURLOPT_VERBOSE, false);
