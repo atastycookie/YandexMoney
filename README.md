@@ -2,9 +2,12 @@ Yandex.Money
 ================================
 Documentation + example of code
 
-##Yandex.Kassa ##
+## Yandex.Kassa  [**RUS**](https://money.yandex.ru/start/#1) [**ENG**](https://money.yandex.ru/eng/merchants/)
 
-> **Supported CMS**
+**Supported frameworks**
+> * [**Django**](https://github.com/aTastyCookie/yandexmoney_django) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+
+**Supported CMS**
 > * [**1С-Битрикс**](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=3547)
 > * [**Merchium**](http://www.merchium.ru/yandex/)
 > * [**nethouse**](http://nethouse.ru/)
@@ -57,11 +60,17 @@ Documentation + example of code
 > * [**HubPay**](http://hubpay.ru/) & [**HubPay FB**](https://www.facebook.com/hubpayinc)
 > * [**PayByLink**](http://paybylink.com/instruction/) & [**PayByLink FB**](https://www.facebook.com/paybylink)
 
+**Example**
+> * [**PHP**](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Kassa/example%20integration/php) - Bad example in PHP xD
 
 ## Yandex.Money.API ##
 
-> **Documentation**
+**Documentation**
 > - [API Денег для приложений](https://tech.yandex.ru/money/) - russian
 > - [Yandex.Money API](https://tech.yandex.com/money/) - english
 
 ## Yandex.Money.Payout ##
+
+**Documentation**
+> - [Выплатной протокол](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Money.Payout/documentation/protocol/RUS) - russian
+> - [Payout protocol](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Money.Payout/documentation/protocol/ENG) - english
