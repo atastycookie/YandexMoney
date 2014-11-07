@@ -1,14 +1,11 @@
 Yandex.Money
 ================================
-
 Documentation + example of code
 
-##Yandex.Kassa##
+##Yandex.Kassa ##
 
 > **Supported CMS**
 > * [**1С-Битрикс**](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=3547)
-> * [**HubPay**](http://hubpay.ru/)  [**HubPay FB**](https://www.facebook.com/hubpayinc)
-> * [**PayByLink**](http://paybylink.com/instruction/)  [**PayByLink FB**](https://www.facebook.com/paybylink)
 > * [**Merchium**](http://www.merchium.ru/yandex/)
 > * [**nethouse**](http://nethouse.ru/)
 > * **UMI**
@@ -57,12 +54,14 @@ Documentation + example of code
 > * [**Лейка**](https://github.com/Teplitsa/Leyka)
 > * [**n4.biz**](http://n4.biz/recieve-payments)
 > * [**Resonline**](http://resonline.ru/)
+> * [**HubPay**](http://hubpay.ru/) & [**HubPay FB**](https://www.facebook.com/hubpayinc)
+> * [**PayByLink**](http://paybylink.com/instruction/) & [**PayByLink FB**](https://www.facebook.com/paybylink)
 
 
-## Yandex.Money.API##
+## Yandex.Money.API ##
 
 > **Documentation**
 > - [API Денег для приложений](https://tech.yandex.ru/money/) - russian
 > - [Yandex.Money API](https://tech.yandex.com/money/) - english
 
-## Yandex.Money.Payout##
+## Yandex.Money.Payout ##
