@@ -4,10 +4,10 @@ Documentation + example of code
 
 ## Yandex.Kassa  [**RUS**](https://money.yandex.ru/start/#1) [**ENG**](https://money.yandex.ru/eng/merchants/)
 
-> **Supported frameworks**
+**Supported frameworks**
 > * [**Django**](https://github.com/aTastyCookie/yandexmoney_django) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
-> **Supported CMS**
+**Supported CMS**
 > * [**1С-Битрикс**](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=3547) is the industry's most secure website management, e-commerce and e-marketing solution that delivers extreme value in performance, functionality, and ease-of-use for small and medium-sized businesses.
 > * [**Merchium**](http://www.merchium.ru/yandex/) - your free online shop
 > * [**nethouse**](http://nethouse.ru/) - free website builder, build a website free
