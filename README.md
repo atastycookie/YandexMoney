@@ -11,7 +11,7 @@ Documentation + example of code
 > * [**1С-Битрикс**](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=3547) is the industry's most secure website management, e-commerce and e-marketing solution that delivers extreme value in performance, functionality, and ease-of-use for small and medium-sized businesses.
 > * [**Merchium**](http://www.merchium.ru/yandex/) - your free online shop
 > * [**nethouse**](http://nethouse.ru/) - free website builder, build a website free
-> * **UMI**
+> * **UMI** professional Content Management System
 > * * [RU](http://umi.ru/) - create site for free
 > * * [CMS](http://www.umi-cms.ru/) - CMS new generation
 > * [**InSales**](http://www.insales.ru/) - Online Platform - Support 24x7 - Running without programmer - Finished design and integration
@@ -54,8 +54,8 @@ Documentation + example of code
 > * [**Drupal**](https://github.com/aTastyCookie/yandexmoney_drupal_commerce_and_ubercart) is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.
 > * [**ECShop**](https://github.com/aTastyCookie/yandexmoney_ecshop) very popular in China script online store.
 > * [**Лейка**](https://github.com/Teplitsa/Leyka) is a free plug-in (independent software module) for WordPress (the system that is running a lot of web sites), allowing to organize fundraising for your organization or individual initiative.
-> * [**n4.biz**](http://n4.biz/recieve-payments) 
-> * [**Resonline**](http://resonline.ru/) 
+> * [**n4.biz**](http://n4.biz/recieve-payments) business social network B2B and B2C. Create an online store for free
+> * [**Resonline**](http://resonline.ru/) online platform to automate processes and increase profits of your hotel
 > * [**HubPay**](http://hubpay.ru/) & [**HubPay FB**](https://www.facebook.com/hubpayinc) CRM-system for professional billing and customer service 
 > * [**PayByLink**](http://paybylink.com/instruction/) & [**PayByLink FB**](https://www.facebook.com/paybylink) invoice manager
 
