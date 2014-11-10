@@ -20,13 +20,13 @@ Documentation + example of code
 > * [**X-Cart**](http://www.x-cart.ru/yandex-money.html) - online Shopping cart software & PHP ecommerce solutions for the best ecommerce websites: X-Cart.
 > * [**osCommerce**](https://github.com/aTastyCookie/yandexmoney_oscommerce) - (styled "osCommerce" - "open source Commerce") is an e-commerce and online store-management software program. 
 > * **ModX** is the web content management platform for those that truly care about no-compromise design and exceptional user experience. It gives you complete control over your site and content, with the flexibility and scalability to adapt to your changing needs.
-> * - [Revo](https://github.com/aTastyCookie/yandexmoney_modx)
-> * - [Evo](https://github.com/aTastyCookie/yandexmoney_modx_evo)
+> * * [Revo](https://github.com/aTastyCookie/yandexmoney_modx)
+> * * [Evo](https://github.com/aTastyCookie/yandexmoney_modx_evo)
 > * [**WebAsyst Shop-Script-5**](http://www.shop-script.ru/) - feature-rich PHP shopping cart solution & ecommerce framework developed in 2013-2014. One of the leading shopping cart solutions of Russia. Over 2500 live stores.
 > * **WordPress** is web software you can use to create a beautiful website or blog. We like to say that WordPress is both free and priceless at the same time.
-> * - [WP-Shop](https://wordpress.org/plugins/wp-shop-yandex/)
-> * - [eShop](https://github.com/aTastyCookie/yandexmoney_wp_eshop)
-> * - [WooCommerce](https://github.com/aTastyCookie/yandexmoney_wp_woocommerce)
+> * * [WP-Shop](https://wordpress.org/plugins/wp-shop-yandex/)
+> * * [eShop](https://github.com/aTastyCookie/yandexmoney_wp_eshop)
+> * * [WooCommerce](https://github.com/aTastyCookie/yandexmoney_wp_woocommerce)
 > * [**AdvantsShop.NET**](http://www.advantshop.net/) - easy and intuitive engine online store for a quick start of your business. Open your own shop now!
 > * [**Amiro.CMS**](http://manual.amiro.ru/doc/servisnye-moduli/nastrojka-sistemy/nastrojki-platezhnyh-sistem/#q6) - modern ready engine creating an online store.
 > * [**Fast-Sales**](http://fast-sales.ru/) - ready CMS to run an online store for 1 day
@@ -36,8 +36,8 @@ Documentation + example of code
 > * [**UCOZ**](http://manual.ucoz.net/board/34-1-0-549) free content management system and hosting for websites created with its use.
 > * [**Payplug.In**](http://payplug.in/) technical integrator payments
 > * **Joomla** is the mobile-ready and user-friendly way to build your website.
-> * - [VirtueMart](https://github.com/aTastyCookie/yandexmoney_joomla_mammuthus)
-> * - [JoomShopping](https://github.com/aTastyCookie/yandexmoney_joomla) & [JoomShopping PRO](http://joomshopping.pro/yandex-cashbox.html)
+> * * [VirtueMart](https://github.com/aTastyCookie/yandexmoney_joomla_mammuthus)
+> * * [JoomShopping](https://github.com/aTastyCookie/yandexmoney_joomla) & [JoomShopping PRO](http://joomshopping.pro/yandex-cashbox.html)
 > * [**VamShop**](http://vamshop.ru/) a turnkey solution to build your online store
 > * [**NetCat**](http://netcat.ru/) content management system of any complexity
 > * [**HostCMS**](https://github.com/aTastyCookie/yandexmoney_hostcms) сomfortable and functional engine for website and e-shop, CMS with great potential
@@ -65,11 +65,11 @@ Documentation + example of code
 ## Yandex.Money.API
 
 **Documentation**
-> - [API Денег для приложений](https://tech.yandex.ru/money/) - russian
-> - [Yandex.Money API](https://tech.yandex.com/money/) - english
+> * [API Денег для приложений](https://tech.yandex.ru/money/) - russian
+> * [Yandex.Money API](https://tech.yandex.com/money/) - english
 
 ## Yandex.Money.Payout
 
 **Documentation**
-> - [Выплатной протокол](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Money.Payout/documentation/protocol/RUS) - russian
-> - [Payout protocol](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Money.Payout/documentation/protocol/ENG) - english
+> * [Выплатной протокол](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Money.Payout/documentation/protocol/RUS) - russian
+> * [Payout protocol](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Money.Payout/documentation/protocol/ENG) - english
