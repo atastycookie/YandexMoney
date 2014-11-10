@@ -60,7 +60,7 @@ Documentation + example of code
 > * [**PayByLink**](http://paybylink.com/instruction/) & [**PayByLink FB**](https://www.facebook.com/paybylink) invoice manager
 
 **Example**
-> * [**PHP**](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Kassa/example%20integration/php) - Bad example in PHP xD
+> * [**PHP**](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Kassa/example%20integration/php) - Example in PHP
 
 ## Yandex.Money.API
 
