@@ -1,6 +1,6 @@
 Yandex.Money
 ================================
-Documentation + example of code
+Yandex.Money is a joint venture of Sberbank, the largest bank in Eastern Europe, and the Internet company Yandex, operator of Russia's leading search engine. Yandex.Money is the easiest way to start sales in Russia. We'll provide your online store with the means of accepting all payment options popular in Russia — cash, bank cards, e‑money, and mobile carrier billing.
 
 ## Yandex.Kassa  [**RUS**](https://money.yandex.ru/start/#1) [**ENG**](https://money.yandex.ru/eng/merchants/)
 
