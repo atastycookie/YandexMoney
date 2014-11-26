@@ -58,7 +58,7 @@ Yandex.Money is a joint venture of Sberbank, the largest bank in Eastern Europe,
 > * [**n4.biz**](http://n4.biz/recieve-payments) business social network B2B and B2C. Create an online store for free
 > * [**Resonline**](http://resonline.ru/) online platform to automate processes and increase profits of your hotel
 > * [**HubPay**](http://hubpay.ru/) & [**HubPay FB**](https://www.facebook.com/hubpayinc) CRM-system for professional billing and customer service 
-> * [**PayByLink**](http://paybylink.com/instruction/) & [**PayByLink FB**](https://www.facebook.com/paybylink) invoice manager source code [**HERE**](https://github.com/aTastyCookie/paybylink)
+> * [**PayByLink**](http://paybylink.com/instruction/) & [**PayByLink FB**](https://www.facebook.com/paybylink) invoice manager
 
 **Example**
 > * [**PHP**](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Kassa/example%20integration/php) - Example in PHP
