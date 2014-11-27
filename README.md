@@ -51,7 +51,7 @@ Yandex.Money is a joint venture of Sberbank, the largest bank in Eastern Europe,
 > * [**GetShopApp**](https://www.getshopapp.com/) service creating a mobile version of online stores for iPhone and Android
 > * [**ShopWare**](https://github.com/aTastyCookie/yandexmoney_shopware) is a powerful and flexible eCommerce software. Innovation, advanced technologies and comprehensive services make Shopware one of the most promising eCommerce solutions on the market.
 > * [**MegaGroup**](http://megagroup.ru/) professional content management system
-> * [**PrestaShop**](http://addons.prestashop.com/ru/payments-gateways/16686--.html) free ecommerce solution to start your online business and start selling online
+> * [**PrestaShop**](https://github.com/aTastyCookie/yandex_prestashop) free ecommerce solution to start your online business and start selling online
 > * [**Drupal**](https://github.com/aTastyCookie/yandexmoney_drupal_commerce_and_ubercart) is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.
 > * [**ECShop**](https://github.com/aTastyCookie/yandexmoney_ecshop) very popular in China script online store.
 > * [**Лейка**](https://github.com/Teplitsa/Leyka) is a free plug-in (independent software module) for WordPress (the system that is running a lot of web sites), allowing to organize fundraising for your organization or individual initiative.
