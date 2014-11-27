@@ -8,7 +8,10 @@ Yandex.Money is a joint venture of Sberbank, the largest bank in Eastern Europe,
 > * [**Django**](https://github.com/aTastyCookie/yandexmoney_django) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 > * [**Omnipay**](https://github.com/aTastyCookie/yandexmoney_omnipay) is a payment processing library for PHP. It has been designed based on ideas from Active Merchant, plus experience implementing dozens of gateways for CI Merchant. It has a clear and consistent API, is fully unit tested, and even comes with an example application to get you started.
 
-**Supported CMS**
+**Supported CMS - YandexModule** (YandexKassa, YandexMoney, YandexMetrika,YandexMarket.CPC, YandexMarket.CPA)
+> * [**PrestaShop**](https://github.com/aTastyCookie/yandex_prestashop) free ecommerce solution to start your online business and start selling online
+
+**Supported CMS - YandexMoney**
 > * [**1С-Битрикс**](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=3547) is the industry's most secure website management, e-commerce and e-marketing solution that delivers extreme value in performance, functionality, and ease-of-use for small and medium-sized businesses.
 > * [**Merchium**](http://www.merchium.ru/yandex/) - your free online shop
 > * [**nethouse**](http://nethouse.ru/) - free website builder, build a website free
