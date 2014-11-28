@@ -33,7 +33,7 @@ Yandex.Money is a joint venture of Sberbank, the largest bank in Eastern Europe,
 > * * [WooCommerce](https://github.com/aTastyCookie/yandexmoney_wp_woocommerce)
 > * [**AdvantsShop.NET**](http://www.advantshop.net/) - easy and intuitive engine online store for a quick start of your business. Open your own shop now!
 > * [**AdvantsShop.NET**](http://www.advantshop.net/) - easy and intuitive engine online store for a quick start of your business. Open your own shop now!
-> * [**CMS-S3**](http://megagroup.ru/) - сreation of website.
+> * [**Megagroup.ru CMS.S3**](http://megagroup.ru/cms) - сreation of website.
 > * [**Fast-Sales**](http://fast-sales.ru/) - ready CMS to run an online store for 1 day
 > * [**Magento**](http://www.magentocommerce.com/magento-connect/catalog/product/view/id/19716/s/yandex-money-payment-module/category/12848/)  is the eCommerce software and platform trusted by the world's leading brands. Grow your online business with Magento!
 > * [**Rugento**](http://www.rugento.ru/yandexmoney-payment-module.html) - platform for the growth of your business!
