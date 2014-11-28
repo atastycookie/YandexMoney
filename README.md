@@ -1,13 +1,17 @@
 Yandex.Money
 ================================
-Documentation + example of code
+Yandex.Money is a joint venture of Sberbank, the largest bank in Eastern Europe, and the Internet company Yandex, operator of Russia's leading search engine. Yandex.Money is the easiest way to start sales in Russia. We'll provide your online store with the means of accepting all payment options popular in Russia — cash, bank cards, e‑money, and mobile carrier billing.
 
 ## Yandex.Kassa  [**RUS**](https://money.yandex.ru/start/#1) [**ENG**](https://money.yandex.ru/eng/merchants/)
 
 **Supported frameworks**
 > * [**Django**](https://github.com/aTastyCookie/yandexmoney_django) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+> * [**Omnipay**](https://github.com/aTastyCookie/yandexmoney_omnipay) is a payment processing library for PHP. It has been designed based on ideas from Active Merchant, plus experience implementing dozens of gateways for CI Merchant. It has a clear and consistent API, is fully unit tested, and even comes with an example application to get you started.
 
-**Supported CMS**
+**Supported CMS - YandexModule** (YandexKassa, YandexMoney, YandexMetrika,YandexMarket.CPC, YandexMarket.CPA)
+> * [**PrestaShop**](https://github.com/aTastyCookie/yandex_prestashop) free ecommerce solution to start your online business and start selling online
+
+**Supported CMS - YandexMoney**
 > * [**1С-Битрикс**](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=3547) is the industry's most secure website management, e-commerce and e-marketing solution that delivers extreme value in performance, functionality, and ease-of-use for small and medium-sized businesses.
 > * [**Merchium**](http://www.merchium.ru/yandex/) - your free online shop
 > * [**nethouse**](http://nethouse.ru/) - free website builder, build a website free
@@ -28,7 +32,8 @@ Documentation + example of code
 > * * [eShop](https://github.com/aTastyCookie/yandexmoney_wp_eshop)
 > * * [WooCommerce](https://github.com/aTastyCookie/yandexmoney_wp_woocommerce)
 > * [**AdvantsShop.NET**](http://www.advantshop.net/) - easy and intuitive engine online store for a quick start of your business. Open your own shop now!
-> * [**Amiro.CMS**](http://manual.amiro.ru/doc/servisnye-moduli/nastrojka-sistemy/nastrojki-platezhnyh-sistem/#q6) - modern ready engine creating an online store.
+> * [**AdvantsShop.NET**](http://www.advantshop.net/) - easy and intuitive engine online store for a quick start of your business. Open your own shop now!
+> * [**Megagroup.ru CMS.S3**](http://megagroup.ru/cms) - сreation of website.
 > * [**Fast-Sales**](http://fast-sales.ru/) - ready CMS to run an online store for 1 day
 > * [**Magento**](http://www.magentocommerce.com/magento-connect/catalog/product/view/id/19716/s/yandex-money-payment-module/category/12848/)  is the eCommerce software and platform trusted by the world's leading brands. Grow your online business with Magento!
 > * [**Rugento**](http://www.rugento.ru/yandexmoney-payment-module.html) - platform for the growth of your business!
@@ -50,7 +55,7 @@ Documentation + example of code
 > * [**GetShopApp**](https://www.getshopapp.com/) service creating a mobile version of online stores for iPhone and Android
 > * [**ShopWare**](https://github.com/aTastyCookie/yandexmoney_shopware) is a powerful and flexible eCommerce software. Innovation, advanced technologies and comprehensive services make Shopware one of the most promising eCommerce solutions on the market.
 > * [**MegaGroup**](http://megagroup.ru/) professional content management system
-> * [**PrestaShop**](http://addons.prestashop.com/ru/payments-gateways/16686--.html) free ecommerce solution to start your online business and start selling online
+> * [**PrestaShop**](https://github.com/aTastyCookie/yandex_prestashop) free ecommerce solution to start your online business and start selling online
 > * [**Drupal**](https://github.com/aTastyCookie/yandexmoney_drupal_commerce_and_ubercart) is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.
 > * [**ECShop**](https://github.com/aTastyCookie/yandexmoney_ecshop) very popular in China script online store.
 > * [**Лейка**](https://github.com/Teplitsa/Leyka) is a free plug-in (independent software module) for WordPress (the system that is running a lot of web sites), allowing to organize fundraising for your organization or individual initiative.
