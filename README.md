@@ -13,14 +13,14 @@ Yandex.Money is a joint venture of Sberbank, the largest bank in Eastern Europe,
 
 **Supported CMS - YandexMoney**
 > * [**1С-Битрикс**](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=3547) is the industry's most secure website management, e-commerce and e-marketing solution that delivers extreme value in performance, functionality, and ease-of-use for small and medium-sized businesses.
-> * [**Merchium**](http://www.merchium.ru/yandex/) - your free online shop
+> * [**Merchium**](http://www.merchium.ru/yandex/) - powerful and free eCommerce site builder, officially approved by Yandex.Money. Merchium lets you create a ready-to-sell store in 10 seconds and embed it any existing site, blog, or Facebook page.
 > * [**nethouse**](http://nethouse.ru/) - free website builder, build a website free
 > * **UMI** professional Content Management System
 > * * [RU](http://umi.ru/) - create site for free
 > * * [CMS](http://www.umi-cms.ru/) - CMS new generation
 > * [**InSales**](http://www.insales.ru/) - Online Platform - Support 24x7 - Running without programmer - Finished design and integration
 > * [**OpenCart**](https://github.com/aTastyCookie/yandexmoney_opencart) - free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
-> * [**CS-Cart**](http://yandexmoney.cs-cart.ru/instructions.html) - feature-rich eCommerce software
+> * [**CS-Cart**](http://yandexmoney.cs-cart.ru/instructions.html) - feature-rich eCommerce software that powers over 30 000 stores around the globe.
 > * [**X-Cart**](http://www.x-cart.ru/yandex-money.html) - online Shopping cart software & PHP ecommerce solutions for the best ecommerce websites: X-Cart.
 > * [**osCommerce**](https://github.com/aTastyCookie/yandexmoney_oscommerce) - (styled "osCommerce" - "open source Commerce") is an e-commerce and online store-management software program. 
 > * **ModX** is the web content management platform for those that truly care about no-compromise design and exceptional user experience. It gives you complete control over your site and content, with the flexibility and scalability to adapt to your changing needs.
