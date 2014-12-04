@@ -9,11 +9,11 @@ Yandex.Money is a joint venture of Sberbank, the largest bank in Eastern Europe,
 > * [**Omnipay**](https://github.com/aTastyCookie/yandexmoney_omnipay) is a payment processing library for PHP. It has been designed based on ideas from Active Merchant, plus experience implementing dozens of gateways for CI Merchant. It has a clear and consistent API, is fully unit tested, and even comes with an example application to get you started.
 
 **Supported CMS - YandexModule** (YandexKassa, YandexMoney, YandexMetrika,YandexMarket.CPC, YandexMarket.CPA)
-> * [**PrestaShop**](https://github.com/aTastyCookie/yandex_prestashop) free eCommerce solution to start your online business and start selling online
+> * [**PrestaShop**](https://github.com/aTastyCookie/yandex_prestashop) free ecommerce solution to start your online business and start selling online
 
 **Supported CMS - YandexMoney**
 > * [**1С-Битрикс**](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=3547) is the industry's most secure website management, e-commerce and e-marketing solution that delivers extreme value in performance, functionality, and ease-of-use for small and medium-sized businesses.
-> * [**Merchium**](http://www.merchium.ru/yandex/) - powerful and free ecommerce site builder, officially approved by Yandex.Money. Merchium lets you create a ready-to-sell store in 10 seconds and embed it any existing site, blog, or Facebook page.
+> * [**Merchium**](http://www.merchium.ru/yandex/) - powerful and free eCommerce site builder, officially approved by Yandex.Money. Merchium lets you create a ready-to-sell store in 10 seconds and embed it any existing site, blog, or Facebook page.
 > * [**nethouse**](http://nethouse.ru/) - free website builder, build a website free
 > * **UMI** professional Content Management System
 > * * [RU](http://umi.ru/) - create site for free
