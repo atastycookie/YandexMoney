@@ -11,5 +11,7 @@
 
 ###protocols
 * [commonHTTP3.x](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Kassa/documentation/protocol)
+* [MWS 3.x eng](http://git.io/mK7FxQ)
+* [MWS 3.x rus](http://git.io/QfEsTw)
 * [payoutProtocol](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Money.Payout/documentation/protocol)
 * [API](https://tech.yandex.ru/money/)
