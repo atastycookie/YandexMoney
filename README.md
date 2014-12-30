@@ -10,6 +10,7 @@ Yandex.Money is a joint venture of Sberbank, the largest bank in Eastern Europe,
 
 **Supported CMS - YandexModule** (YandexKassa, YandexMoney, YandexMetrika,YandexMarket.CPC, YandexMarket.CPA)
 > * [**PrestaShop**](https://github.com/aTastyCookie/yandex_prestashop) free ecommerce solution to start your online business and start selling online
+> * [**OpenCart 2**](https://github.com/aTastyCookie/yandex_opencart2) - free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 
 **Supported CMS - YandexMoney**
 > * [**1С-Битрикс**](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=3547) is the industry's most secure website management, e-commerce and e-marketing solution that delivers extreme value in performance, functionality, and ease-of-use for small and medium-sized businesses.
