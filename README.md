@@ -64,6 +64,7 @@ Yandex.Money is a joint venture of Sberbank, the largest bank in Eastern Europe,
 > * [**Resonline**](http://resonline.ru/) online platform to automate processes and increase profits of your hotel
 > * [**HubPay**](http://hubpay.ru/) & [**HubPay FB**](https://www.facebook.com/hubpayinc) CRM-system for professional billing and customer service 
 > * [**PayByLink**](http://paybylink.com/instruction/) & [**PayByLink FB**](https://www.facebook.com/paybylink) invoice manager
+> * [**WHMCS**](http://whmcs.com.ua/documentation/payment-gateways/yandex-money/) the Complete Client Management, Billing & Support Solution
 
 **Example**
 > * [**PHP**](https://github.com/aTastyCookie/YandexMoney/tree/master/Yandex.Kassa/example%20integration/php) - Example in PHP
